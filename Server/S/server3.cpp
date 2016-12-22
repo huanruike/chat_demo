@@ -8,7 +8,7 @@
 
 using namespace std;
 
-#define SERVER_ADDRESS "10.181.149.200"
+#define SERVER_ADDRESS "192.168.1.107"
 #define SERVER_PORT 8003
 //服务器地址和端口
 
